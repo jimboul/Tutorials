@@ -1,5 +1,7 @@
 # Tutorials
 
+This repository contains algorithms developed to solve Machine Learning problems. The orientation of these approaches is purely educational and provide ML developers (regardless of their level) with simple steps (solutions) on how to approach similar ML problems.
+
 ## Time Series Analysis - Handbook 
 A detailed handbook/tutorial is presented in this folder and the relevant notebook on how we should work with Time Series data. The purpose of all developed models is educational and not to outperform any current benchmark and thus, a randomly-generated time series dataset has been used
 
