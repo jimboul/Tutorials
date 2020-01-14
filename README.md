@@ -10,3 +10,6 @@ This folder contains a XGBoost model used for predicting whether a planet(-oid) 
 
 ## Exoplanet Detection
 This folder contains a notebook in which two models - a XGBoost and a neural network - have been developed to detect whether a star has at least one exoplanet in orbit or not. The model is trained on time series data gathered from NASA Kepler space telescope which measured the change in flux (light intensity) of thousands of stars at several time steps.
+
+## Synthetic Time Series using Generative Adversarial Networks
+This tutorial investigates various GAN architectures on the MNIST dataset as an inductive step to the core of the tutorial which is the presentation of a methodology to create synthetic time series data (Data Augmentation) using Generative Adversarial Networks.
